@@ -1,3 +1,9 @@
+"""Pickup line for machines.
+
+One machine-learning-flavoured pickup line (80 characters, within the
+bounty limit), written to entry.txt by main().
+"""
+
 import os
 
 ENTRY = "I must be overfitting: one epoch with you and I can't generalize to anyone else."
